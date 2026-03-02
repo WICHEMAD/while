@@ -2,7 +2,6 @@
 using namespace std;
 int main()
 {
-cout<<"Hello Word"<<endl;
-cout<<"我是冠军"<<endl;
+cout<<"ntm是谁啊"<<endl;
 return 0;
 }
